@@ -11,7 +11,7 @@ import { useState } from "react";
 import { BrowserRouter, Route, Link } from "react-router-dom";
 
 const Landing = () => {
-	const [isClicked, setIsClicked] = useState(false);
+	const [isClicked, setIsClicked] = useState(true);
 
 	return (
 		<div>

@@ -1,7 +1,3 @@
-# Sofia Darke Portfolio 2021
+# Ray Atelier - development environment
 
-This is my portfolio using create-react-app, showcasing some of the projects I've been working on since starting studying frontend development at Hyper Island Aug 2020. I will fill up with more along the way.
-
-## Tech stack
-
-React, npm-packages, css-animations etc.
+WEbsite for company Ray Atelier. Will move on to be using contentful but in this stage its pure react
