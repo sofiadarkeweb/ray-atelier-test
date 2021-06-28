@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ray-atelier-test/static/css/main.96e7d39d.chunk.css",
+    "main.js": "/ray-atelier-test/static/js/main.3b8e479a.chunk.js",
+    "main.js.map": "/ray-atelier-test/static/js/main.3b8e479a.chunk.js.map",
+    "runtime-main.js": "/ray-atelier-test/static/js/runtime-main.b37c8821.js",
+    "runtime-main.js.map": "/ray-atelier-test/static/js/runtime-main.b37c8821.js.map",
+    "static/js/2.4be29b05.chunk.js": "/ray-atelier-test/static/js/2.4be29b05.chunk.js",
+    "static/js/2.4be29b05.chunk.js.map": "/ray-atelier-test/static/js/2.4be29b05.chunk.js.map",
+    "static/js/3.58887405.chunk.js": "/ray-atelier-test/static/js/3.58887405.chunk.js",
+    "static/js/3.58887405.chunk.js.map": "/ray-atelier-test/static/js/3.58887405.chunk.js.map",
+    "index.html": "/ray-atelier-test/index.html",
+    "static/css/main.96e7d39d.chunk.css.map": "/ray-atelier-test/static/css/main.96e7d39d.chunk.css.map",
+    "static/js/2.4be29b05.chunk.js.LICENSE.txt": "/ray-atelier-test/static/js/2.4be29b05.chunk.js.LICENSE.txt",
+    "static/media/borg.be1e4afc.jpg": "/ray-atelier-test/static/media/borg.be1e4afc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b37c8821.js",
+    "static/js/2.4be29b05.chunk.js",
+    "static/css/main.96e7d39d.chunk.css",
+    "static/js/main.3b8e479a.chunk.js"
+  ]
+}
