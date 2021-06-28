@@ -6,7 +6,6 @@ import Contact from "./Contact";
 import Hero from "./Hero";
 import { useState } from "react";
 // import Hamburger from "hamburger-react";
-// import { useState } from "react";
 // import { Link } from "react-scroll";
 import { BrowserRouter, Route, Link } from "react-router-dom";
 

@@ -106,7 +106,8 @@
 }
 
 .project-container:hover {
-	transform: rotate(-0.2deg);
+	/* transform: rotate(-0.2deg); */
+	filter: grayscale(100%);
 }
 
 .project-image {
@@ -114,6 +115,7 @@
 	height: 100%;
 	object-fit: cover;
 	overflow: hidden;
+	cursor: pointer;
 }
 
 .project-title {

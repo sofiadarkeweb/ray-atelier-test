@@ -1,5 +1,6 @@
 import React from "react";
 import Footer from "./Footer";
+// import { AnimatePresence } from "framer-motion";
 
 const About = () => {
 	return (
@@ -17,3 +18,5 @@ const About = () => {
 };
 
 export default About;
+
+// <AnimatePresence>

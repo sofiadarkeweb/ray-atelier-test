@@ -4,7 +4,7 @@ const Footer = () => {
 	let thisYear = new Date().getFullYear();
 	return (
 		<footer className="footer">
-			<p>By Sofia Darke {thisYear}</p>
+			<p>Ray Atelier {thisYear}</p>
 		</footer>
 	);
 };
